@@ -1,5 +1,8 @@
-# Netflix Clone 
+# Netflix Clone build with React, Firabase and Movie API frm themoviedb
+
 https://netflix-clone-603eb.web.app/
+
+There is a main page of Netflix Clone. Where you can see the images of movies/series. Image is coming from https://image.tmdb.org/t/p/original/... and after clicking on image trailer will play.
 
 # Installation 
 
